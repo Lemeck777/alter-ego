@@ -1,0 +1,136 @@
+[
+  {
+    "lesson_id": "sperm_when_you_dont_ejaculate",
+    "category": "your_body",
+    "title": "What actually happens to sperm when you don't ejaculate?",
+    "read_seconds": 60,
+    "blocks": [
+      { "type": "text", "text": "Sperm production never stops. Your testes run a continuous production line, and one full cycle from stem cell to mature sperm takes roughly two to two-and-a-half months." },
+      { "type": "claim", "claim_id": "spermatogenesis_continuous" },
+      { "type": "text", "text": "When you don't ejaculate, sperm that are not released are reabsorbed by the body or passed during nocturnal emissions. Nothing accumulates forever, and nothing 'backs up'." },
+      { "type": "text", "text": "Longer abstinence does increase the volume of a later ejaculate and the number of sperm in it." },
+      { "type": "claim", "claim_id": "abstinence_volume_count" },
+      { "type": "callout", "text": "This app tracks your commitment precisely. It does not, and cannot, track what is happening inside your body." }
+    ]
+  },
+  {
+    "lesson_id": "does_retention_increase_testosterone",
+    "category": "retention",
+    "title": "Does semen retention increase testosterone?",
+    "read_seconds": 75,
+    "blocks": [
+      { "type": "text", "text": "This is the most repeated claim online, so it deserves a straight answer: the evidence is weak." },
+      { "type": "claim", "claim_id": "testosterone_retention_no_strong_evidence" },
+      { "type": "text", "text": "The study everyone quotes followed a small group of men for a short period. It observed a short-lived fluctuation, not a lasting rise, and it has not been replicated at scale." },
+      { "type": "text", "text": "Claims about energy, magnetism or special powers are tradition and testimony, not measurement." },
+      { "type": "claim", "claim_id": "retention_supernatural_energy_tradition" },
+      { "type": "callout", "text": "If you practise retention, do it for your own reasons: discipline, faith, focus, relationships. You don't need a hormone myth to justify a personal commitment." }
+    ]
+  },
+  {
+    "lesson_id": "why_urges_get_intense",
+    "category": "urges_habits",
+    "title": "Why can urges suddenly become intense?",
+    "read_seconds": 70,
+    "blocks": [
+      { "type": "text", "text": "Urges are waves. They build, crest, and fall, usually within a few minutes, whether or not you act on them." },
+      { "type": "claim", "claim_id": "urge_transient" },
+      { "type": "text", "text": "Three things make the wave feel bigger: tiredness, being alone with a screen late at night, and boredom. Two of those you can change tonight." },
+      { "type": "claim", "claim_id": "sleep_impulse_control" },
+      { "type": "text", "text": "Deciding in advance what you'll do when the wave hits works better than deciding in the moment." },
+      { "type": "claim", "claim_id": "implementation_intentions" },
+      { "type": "callout", "text": "Urge Mode in this app is built around exactly this: don't decide anything yet, give it ten minutes, change what your body is doing." }
+    ]
+  },
+  {
+    "lesson_id": "how_male_fertility_changes_with_age",
+    "category": "age",
+    "title": "How does male fertility change with age?",
+    "read_seconds": 80,
+    "blocks": [
+      { "type": "text", "text": "Men keep producing sperm throughout life, but several measures shift with age." },
+      { "type": "claim", "claim_id": "age_semen_parameters" },
+      { "type": "text", "text": "Semen volume, motility, morphology and DNA integrity tend to decline. Concentration, the number of sperm per millilitre, did not decline consistently across a very large body of studies." },
+      { "type": "claim", "claim_id": "paternal_age_dna_fragmentation" },
+      { "type": "text", "text": "Individual studies disagree about how much and how fast, which is why this app will never show you a 'percent decline per year'." },
+      { "type": "claim", "claim_id": "age_effects_vary_between_studies" },
+      { "type": "callout", "text": "Your body changes with time. So should the way you look after it: sleep, movement, weight, alcohol and smoking all matter more than any timer." }
+    ]
+  },
+  {
+    "lesson_id": "what_semen_analysis_measures",
+    "category": "your_body",
+    "title": "What does a semen analysis actually measure?",
+    "read_seconds": 60,
+    "blocks": [
+      { "type": "text", "text": "A laboratory semen analysis measures volume, sperm concentration, total count, motility, morphology and sometimes DNA fragmentation." },
+      { "type": "claim", "claim_id": "semen_analysis_required" },
+      { "type": "text", "text": "Those numbers cannot be estimated from your age or from how many days you've abstained. Any app that shows you a live sperm count is making it up." },
+      { "type": "callout", "text": "If you want a real picture of your reproductive health, ask a clinician for a semen analysis. That is the appropriate measurement." }
+    ]
+  },
+  {
+    "lesson_id": "who_2_7_day_interval",
+    "category": "retention",
+    "title": "What does the WHO 2 to 7 day interval mean?",
+    "read_seconds": 50,
+    "blocks": [
+      { "type": "text", "text": "You may have read that the WHO 'recommends' 2 to 7 days of abstinence. It does, but only before a laboratory sample." },
+      { "type": "claim", "claim_id": "who_2_7_day_window" },
+      { "type": "text", "text": "The window exists so that results from different men and different labs can be compared fairly. It is not health advice about how often anyone should ejaculate." },
+      { "type": "callout", "text": "Your commitment length is a personal choice, not a medical prescription." }
+    ]
+  },
+  {
+    "lesson_id": "more_days_not_always_better",
+    "category": "retention",
+    "title": "Is more days always better?",
+    "read_seconds": 70,
+    "blocks": [
+      { "type": "text", "text": "Not for every measure. Longer abstinence tends to raise volume and count, but research has linked longer intervals with lower progressive motility and more DNA fragmentation." },
+      { "type": "claim", "claim_id": "abstinence_motility_dna_tradeoff" },
+      { "type": "text", "text": "In some fertility clinics, shorter intervals are actually preferred for that reason." },
+      { "type": "claim", "claim_id": "fertility_context_shorter_abstinence" },
+      { "type": "callout", "text": "So the biology is a trade-off, not a ladder. That is why Alter Ego frames retention as a commitment you choose, not a health score you climb." }
+    ]
+  },
+  {
+    "lesson_id": "sleep_and_self_control",
+    "category": "urges_habits",
+    "title": "Sleep is a self-control tool",
+    "read_seconds": 50,
+    "blocks": [
+      { "type": "text", "text": "The version of you at 1 AM after five hours of sleep makes different decisions from the version at 9 AM after eight." },
+      { "type": "claim", "claim_id": "sleep_impulse_control" },
+      { "type": "text", "text": "If most of your resets happen late at night, the most effective intervention might not be willpower. It might be an earlier bedtime and a phone that sleeps in another room." },
+      { "type": "callout", "text": "Journey will show you the time of day your chapters tend to end. Use it." }
+    ]
+  },
+  {
+    "lesson_id": "habits_and_restarts",
+    "category": "urges_habits",
+    "title": "Why restarting is not failing",
+    "read_seconds": 60,
+    "blocks": [
+      { "type": "text", "text": "Habits form over weeks and months, and the timeline varies enormously between people." },
+      { "type": "claim", "claim_id": "habit_formation_weeks" },
+      { "type": "text", "text": "In the research on habit formation, missing a single day made no measurable difference to the long-term outcome. What mattered was returning." },
+      { "type": "text", "text": "Movement helps too: regular exercise has been linked to gains in self-regulation that spill over into unrelated areas." },
+      { "type": "claim", "claim_id": "exercise_mood_impulse" },
+      { "type": "callout", "text": "That is why Alter Ego counts chapters, not streaks, and shows committed days out of total days rather than resetting you to zero." }
+    ]
+  },
+  {
+    "lesson_id": "another_year",
+    "category": "age",
+    "title": "Another year: what changes with male reproductive ageing?",
+    "read_seconds": 60,
+    "blocks": [
+      { "type": "text", "text": "Every birthday, Alter Ego will nudge you to read this rather than show you a made-up decline number." },
+      { "type": "claim", "claim_id": "age_semen_parameters" },
+      { "type": "text", "text": "The measures most consistently affected by age are motility, morphology and DNA integrity. The strongest levers you control are sleep, body weight, exercise, alcohol and smoking." },
+      { "type": "claim", "claim_id": "hydration_mood" },
+      { "type": "callout", "text": "If you are planning children and are over 35, a conversation with a clinician is worth more than any timer." }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "disclaimer": "This timeline describes what research says about ejaculatory abstinence in general. It cannot measure your body. Individual semen quality can only be measured by a laboratory semen analysis.",
+  "phases": [
+    {
+      "phase_id": "day_1",
+      "day_from": 0,
+      "day_to": 1,
+      "title": "Reset & Recovery",
+      "summary": "Your reproductive system continues producing sperm continuously. Nothing has been 'lost' and nothing needs to be 'rebuilt'.",
+      "claim_ids": ["spermatogenesis_continuous"]
+    },
+    {
+      "phase_id": "days_2_3",
+      "day_from": 2,
+      "day_to": 3,
+      "title": "Short Abstinence",
+      "summary": "Semen volume and the number of sperm available at ejaculation may begin increasing.",
+      "claim_ids": ["abstinence_volume_count"]
+    },
+    {
+      "phase_id": "days_4_7",
+      "day_from": 4,
+      "day_to": 7,
+      "title": "Continued Abstinence",
+      "summary": "Longer abstinence is generally associated with greater semen volume and count. Other parameters do not necessarily improve. This is also the window laboratories use to standardise samples.",
+      "claim_ids": ["abstinence_volume_count", "who_2_7_day_window"]
+    },
+    {
+      "phase_id": "beyond_7",
+      "day_from": 8,
+      "day_to": null,
+      "title": "Longer Abstinence",
+      "summary": "More abstinence does not automatically mean 'better sperm'. Research has associated longer intervals with trade-offs, including lower progressive motility and higher DNA fragmentation. Your commitment is your own; the biology is not a scoreboard.",
+      "claim_ids": ["abstinence_motility_dna_tradeoff", "fertility_context_shorter_abstinence", "testosterone_retention_no_strong_evidence"]
+    }
+  ]
+}

@@ -1,0 +1,2877 @@
+[
+  {
+    "id": "sunny_0001",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Fun fact: you've survived every bad day so far.",
+      "Undefeated. Someone get this person a trophy."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0002",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Your phone just asked me if you're okay.",
+      "I said you're great. It seemed relieved."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0003",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Breaking news: the sky is still up there.",
+      "Reporters confirm it looks pretty nice today."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0004",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "I tried to be serious for a whole minute.",
+      "Made it to eleven seconds. New record."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0005",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Somewhere a dog is being very good right now.",
+      "Just thought you should know."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0006",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "You blinked. Nice. Keep doing that.",
+      "It's one of your best moves."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0007",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Plot twist: today is a Tuesday in a trench coat.",
+      "It wants to be your friend."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0008",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "If I had hands I'd give you a high five.",
+      "Please high five yourself. I'll watch."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0009",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "The couch says hi.",
+      "It also says it's proud of you either way."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0010",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "I've been told I'm a lot.",
+      "I choose to take that as a compliment."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0011",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Rumor has it smiling for no reason is legal.",
+      "I checked. You're cleared."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0012",
+    "persona": "sunny",
+    "goal": "focus",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Your to-do list called.",
+      "It said it can wait ten minutes for you to breathe."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0013",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Just saw a cloud shaped like a potato.",
+      "Felt like you deserved to know that."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0014",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "I counted your screen unlocks today.",
+      "Kidding. I can't count. But... probably a lot?"
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0015",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [
+      "18-24",
+      "25-29"
+    ],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Confidence tip: walk like you own the hallway.",
+      "You don't. But nobody has to know."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0016",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Today's forecast: mostly you, with a chance of greatness.",
+      "Bring snacks."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0017",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Alert: the fridge has not changed since you last checked.",
+      "Still love you though."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0018",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Gravity is doing an amazing job holding you down.",
+      "Say thank you."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0019",
+    "persona": "sunny",
+    "goal": "focus",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "I'd tell you a joke about procrastination.",
+      "But maybe later."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0020",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "humor",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "I asked your future self about you.",
+      "They were doing a little dance. Take from that what you will."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0021",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Every plant in your house is rooting for you.",
+      "Literally. That's their whole thing."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0022",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [
+      "18-24"
+    ],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Your bed will still be there tonight.",
+      "It promised. It's very loyal."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0023",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "I'm not saying you're a wizard.",
+      "But your day has been pretty magical so far."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0024",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Scrolling is technically a workout.",
+      "For one thumb. Let's get the rest of you moving."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0025",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Just checking: still the coolest person in the room?",
+      "Even if the room is a bathroom. Especially then."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0026",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "I have zero notifications for you.",
+      "Just vibes. Enjoy them. 😌"
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0027",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Deep breath in... now pretend you're a balloon.",
+      "Now let it go. That's the whole trick."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "breathe",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0028",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Someone somewhere just laughed at a pun.",
+      "You could be that someone. Think of one."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0029",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "The sun is up. It's showing off again. 🌞",
+      "Let it."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0030",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "humor",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Most of my jokes are terrible.",
+      "The rest are also terrible. And yet, here you are."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "humor",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0031",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Water break. Go. I'll wait right here. 💧"
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0032",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Unclench your jaw.",
+      "Yep. That one. Nice."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0033",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Stand up for a sec. Stretch like a cat.",
+      "Bonus points for the little noise."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0034",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Step outside. Even the doorway counts.",
+      "Sky check complete."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0035",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [
+      "18-24",
+      "25-29"
+    ],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "When did you last call your mum?",
+      "Two minutes. She'll be thrilled."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0036",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Smile for no reason.",
+      "See? Now there's a reason."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0037",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Shoulders down from your ears.",
+      "They're not earrings."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0038",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Sip of water. Little one. Go on."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0039",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Look out a window for a moment.",
+      "Something far away. Give your eyes a holiday."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0040",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Roll your neck. Slowly. Both ways.",
+      "You just did something nice for future you."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0041",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [
+      "40-44",
+      "45-49",
+      "50-59",
+      "60+"
+    ],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Text someone 'thinking of you.' No reason needed.",
+      "Watch what comes back."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0042",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Toes wiggle check.",
+      "Still there? Excellent. Carry on."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0043",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Put the phone face down for ten minutes.",
+      "It'll survive. So will you. Probably better."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0044",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Open a window. Let the day in.",
+      "It's been knocking."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0045",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Eat a real meal today. With a plate and everything.",
+      "Fancy."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0046",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Say one nice thing to yourself out loud.",
+      "I'll pretend I didn't hear. Go."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0047",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Big stretch. Arms up. Reach for the ceiling.",
+      "The ceiling is flattered."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0048",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Take three slow breaths.",
+      "Hey, welcome back to your body."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "breathe",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0049",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Walk around the block. Just one lap.",
+      "Legs love a lap."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0050",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Turn the brightness down a notch tonight.",
+      "Your eyes will send a thank-you card."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0051",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "wellbeing",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Drink some water before your next coffee.",
+      "Water first. Coffee earned."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0052",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "wellbeing",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Unclench your hands.",
+      "You were holding on to something. Let it go."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0053",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Sooo... that thing you promised yourself?",
+      "Still a thing."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0054",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Quick wink: how's the plan going?",
+      "No pressure. Just curious. Okay, a little pressure."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0055",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "You said 'less scrolling' this week.",
+      "I believe in you. Also I'm watching. Lovingly."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0056",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Remember that goal? It remembers you.",
+      "Fondly."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0057",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Checking in, not checking up.",
+      "How's the streak treating you?"
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0058",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "You promised yourself an early night.",
+      "The bed is doing its best puppy eyes."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0059",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Hey. Still on track?",
+      "Either answer is fine. I'm here for both."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0060",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Workout was on the list today.",
+      "Even a small one counts. Even a silly one."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0061",
+    "persona": "sunny",
+    "goal": "focus",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "Focus block starts... now?",
+      "Kidding. But also: now?"
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0062",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "You told me you'd try today.",
+      "Trying is happening? Wink."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0063",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Just a nudge: you're closer than you were yesterday.",
+      "Keep going."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0064",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [
+      "25-29",
+      "30-34",
+      "35-39"
+    ],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "How many tabs are open right now?",
+      "Not judging. Just... blink twice if it's a lot."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0065",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Your word to yourself matters.",
+      "That's why I'm bringing it up. With a grin."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0066",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Little check-in from your sunny side.",
+      "Still choosing you today?"
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0067",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "accountability",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "I know the plan felt easier this morning.",
+      "It's still a good plan. Let's do a small piece."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0068",
+    "persona": "sunny",
+    "goal": "fitness",
+    "category": "accountability",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Sooo... did the walk happen?",
+      "It can still happen. Legs are on standby."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0069",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Random thought: bees do a little dance to give directions. 🐝",
+      "You could too. Nobody's stopping you."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0070",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "If today were a color, what would it be?",
+      "Mine's orange. Obviously."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0071",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "random",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Pick a song. Hum the first line.",
+      "Instant mood upgrade."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0072",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Fun challenge: notice three yellow things around you.",
+      "Go."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0073",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Name one thing that smells good right now.",
+      "If nothing, go find something."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0074",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "What's the best snack you've ever had?",
+      "Think about it. Seriously. Take your time."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0075",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "random",
+    "lines": [
+      "A little bird outside probably has opinions about you.",
+      "Good ones."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0076",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Quick: your favorite word.",
+      "Say it out loud. Feels nice, right?"
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0077",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "random",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Somewhere it's raining softly on a tin roof.",
+      "Borrow that sound for a second."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0078",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "random",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Today's random compliment: you have great timing.",
+      "You opened this, didn't you?"
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0079",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Big picture: this hour is one tile in a huge mosaic.",
+      "Make it a bright one."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0080",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "A year from now, today will be a blur.",
+      "The kind thing you do next might not be."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0081",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "perspective",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Nobody has it all figured out.",
+      "Everyone's just doing their best in a slightly wrinkled shirt."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0082",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "The phone will always have more.",
+      "You already have enough for today."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0083",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Bad hour? Not a bad life.",
+      "The sun's got a whole rerun scheduled for tomorrow."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0084",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Progress looks boring up close.",
+      "Zoom out. Look at that. That's you."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0085",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "You don't need to win the day.",
+      "Just be on your own side for it."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0086",
+    "persona": "sunny",
+    "goal": "confidence",
+    "category": "perspective",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "You've changed more than you notice.",
+      "Old you would be a bit starstruck."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0087",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "health",
+    "tone": "playful",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "midday",
+    "trigger": "random",
+    "lines": [
+      "Feeling a bit flat? Might just be thirst.",
+      "Being even a little low on water can dull mood and focus."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "look",
+    "haptic": "tap",
+    "evidence_type": "health",
+    "source": "hydration_mood",
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0088",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "health",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "afternoon",
+    "trigger": "random",
+    "lines": [
+      "Moving your body tends to lift your mood.",
+      "It also makes saying 'no' to yourself a little easier."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "tap",
+    "evidence_type": "health",
+    "source": "exercise_mood_impulse",
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0089",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "health",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [
+      "30-34",
+      "35-39",
+      "40-44"
+    ],
+    "time_context": "evening",
+    "trigger": "random",
+    "lines": [
+      "Short on sleep? Willpower gets wobbly when you're tired.",
+      "Be gentle. An early night is a strategy."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "double_tap",
+    "evidence_type": "health",
+    "source": "sleep_impulse_control",
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0090",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "health",
+    "tone": "warm",
+    "intensity": 2,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "random",
+    "lines": [
+      "Urges rise, crest, and pass on their own.",
+      "Usually within minutes. Ride it out with me."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "health",
+    "source": "urge_transient",
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0091",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "urge_management",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "urge",
+    "lines": [
+      "Okay. Urge's here. It's loud, not in charge.",
+      "Give it a few minutes and see who's still standing."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "look",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0092",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "urge_management",
+    "tone": "playful",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "urge",
+    "lines": [
+      "Hey, hey. Deep breath. This wave is already peaking.",
+      "Stand up, water, window. Go."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0093",
+    "persona": "sunny",
+    "goal": "retention",
+    "category": "urge_management",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "late_night",
+    "trigger": "urge",
+    "lines": [
+      "The urge wants a quick yes.",
+      "Give it a slow maybe. Then a walk."
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": true
+  },
+  {
+    "id": "sunny_0094",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "urge_management",
+    "tone": "warm",
+    "intensity": 3,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "urge",
+    "lines": [
+      "Not a crisis. Just a feeling with a megaphone.",
+      "Turn the volume down together?"
+    ],
+    "actions": [
+      {
+        "label": "I'm good",
+        "type": "dismiss"
+      },
+      {
+        "label": "I need help",
+        "type": "urge_mode"
+      }
+    ],
+    "animation": "breathe",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0095",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "welcome_back",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "welcome_back",
+    "lines": [
+      "There you are! I kept the lights on. 👋",
+      "No questions. Just glad you're here."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0096",
+    "persona": "sunny",
+    "goal": "general",
+    "category": "welcome_back",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "welcome_back",
+    "lines": [
+      "Welcome back. The chair missed you.",
+      "So did I. Mostly me."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0097",
+    "persona": "sunny",
+    "goal": "calm",
+    "category": "welcome_back",
+    "tone": "warm",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "any",
+    "trigger": "welcome_back",
+    "lines": [
+      "You came back. That's the whole win today.",
+      "Let's start tiny."
+    ],
+    "actions": [
+      {
+        "label": "Ha",
+        "type": "dismiss"
+      },
+      {
+        "label": "Save",
+        "type": "save"
+      }
+    ],
+    "animation": "celebrate",
+    "haptic": "double_tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0098",
+    "persona": "sunny",
+    "goal": "focus",
+    "category": "morning",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "scheduled",
+    "lines": [
+      "Morning! One thing first. Just one.",
+      "The rest can queue up politely."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "wave",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0099",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "morning",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "scheduled",
+    "lines": [
+      "Good morning. Water, window, one stretch.",
+      "Then the phone can have you. Later."
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      },
+      {
+        "label": "Snooze",
+        "type": "snooze"
+      }
+    ],
+    "animation": "smile",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  },
+  {
+    "id": "sunny_0100",
+    "persona": "sunny",
+    "goal": "screen_time",
+    "category": "morning",
+    "tone": "playful",
+    "intensity": 1,
+    "age_bands": [],
+    "time_context": "morning",
+    "trigger": "scheduled",
+    "lines": [
+      "Rise and... okay, just rise. Shine is optional.",
+      "Scrolling before your feet hit the floor? Skip it. 😄"
+    ],
+    "actions": [
+      {
+        "label": "Done",
+        "type": "dismiss"
+      }
+    ],
+    "animation": "laugh",
+    "haptic": "tap",
+    "evidence_type": "none",
+    "source": null,
+    "safety_level": "safe",
+    "premium": false
+  }
+]

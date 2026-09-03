@@ -1,0 +1,802 @@
+[
+  {
+    "id": "brother_0001", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Hey. Quick check. Are you doing the thing, or scrolling about the thing?", "No judgment. Just asking."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0002", "persona": "brother", "goal": "retention", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Evening's the sneaky part of the day, man.", "You've held the line all day. Keep it."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0003", "persona": "brother", "goal": "porn_avoidance", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "late_night", "trigger": "random",
+    "lines": ["Look, I know this hour. I've sat in it.", "Phone down, lights off. You're better than a 1am decision."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0004", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Bro. That task you keep 'getting to.'", "It's still there. It's not scared of you. Go say hi."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0005", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Checking in. Not checking up. There's a difference.", "How's today going, honestly?"],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0006", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Not gonna hype you. You know what you told yourself.", "Just keep the promise. That's the whole job."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0007", "persona": "brother", "goal": "porn_avoidance", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["That tab you're thinking about opening? Yeah, I know the one.", "Close the whole thing. Then text somebody real."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0008", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Alarm went off. You're reading this. So you're up.", "Don't negotiate with the bed. Feet on the floor."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0009", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Man, I'm not your mom. But I am the guy who asks.", "Did you do the thing?"],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0010", "persona": "brother", "goal": "screen_time", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You've checked that app enough today, bro.", "Whatever's in there can wait an hour. Try it."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0011", "persona": "brother", "goal": "retention", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Day's winding down. This is where you earn it.", "Boring evening, early sleep. Wake up proud."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0012", "persona": "brother", "goal": "fitness", "category": "accountability",
+    "tone": "playful", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Gym bag by the door doesn't count as going.", "I checked. It doesn't. Go."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0013", "persona": "brother", "goal": "porn_avoidance", "category": "accountability",
+    "tone": "warm", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Been there, man. The 'just a quick look' that eats an hour.", "Don't open the door. I've got you."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0014", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["One honest question: is what you're doing right now moving you forward?", "If yes, keep going. If no, you know."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0015", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["You said you'd stop scrolling by ten. It's about ten.", "Not mad. Just holding you to it."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0016", "persona": "brother", "goal": "confidence", "category": "accountability",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Stand a little taller today, bro.", "Not for anyone else. For the guy in the mirror."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0017", "persona": "brother", "goal": "retention", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "late_night", "trigger": "random",
+    "lines": ["Late night, alone, phone in hand. That's the setup.", "Break it. Water, bed, done."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0018", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Bro, I'm just here to be annoying in a useful way.", "So: are you good? Real answer."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0019", "persona": "brother", "goal": "confidence", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You've been quiet in rooms you should be speaking in, man.", "Say the thing today. Once. That's enough."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0020", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You don't need a new plan, man. You need the old plan done.", "Pick the first step. Go."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0021", "persona": "brother", "goal": "screen_time", "category": "accountability",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Your thumb's put in more work than your legs today.", "Fair? Fair. Go walk."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0022", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": ["40-44", "45-49", "50-59", "60+"], "time_context": "any", "trigger": "random",
+    "lines": ["The kids watch what you do, not what you say.", "Be the example. You already know how."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0023", "persona": "brother", "goal": "retention", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Look, nobody's counting but you. That's the point.", "It's your word to yourself. Keep it quietly."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0024", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Straight up: you've been dodging something today.", "Name it. Then do ten minutes of it. I'll wait."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0025", "persona": "brother", "goal": "porn_avoidance", "category": "accountability",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Evening's the danger zone and you know it.", "Put the phone in another room. Tonight, just tonight."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0026", "persona": "brother", "goal": "discipline", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": ["18-24", "25-29"], "time_context": "any", "trigger": "random",
+    "lines": ["That assignment isn't getting shorter, man.", "Thirty focused minutes. Then you can breathe."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0027", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Quick pulse check. Thumbs up or thumbs down?", "Either's fine. I just wanna know."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0028", "persona": "brother", "goal": "fitness", "category": "accountability",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You planned a workout today. I remember, even if you don't.", "Even a short one counts. Go move."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0029", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["You don't owe me a streak, bro. You owe yourself a good night.", "Make it one."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0030", "persona": "brother", "goal": "general", "category": "accountability",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Whatever's stacked up today, you don't clear it all at once.", "One thing. Then I'll bug you about the next one."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0031", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["I'd say 'stay strong' but that's a gym poster.", "So: don't be a dummy. Love you."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0032", "persona": "brother", "goal": "retention", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Your body's not a piggy bank, man. Nothing's rattling around in there.", "Relax. Just do the thing you said."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0033", "persona": "brother", "goal": "screen_time", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You've scrolled far enough to reach the earth's core.", "Come back up. There's air here."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Snooze", "type": "snooze" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0034", "persona": "brother", "goal": "fitness", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Muscles don't grow from watching gym videos, bro.", "I tried. Results were disappointing."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0035", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You know what's underrated? A nap that isn't avoidance.", "Take one of those instead."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0036", "persona": "brother", "goal": "porn_avoidance", "category": "humor",
+    "tone": "playful", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Incognito mode is just your browser politely pretending.", "It knows. You know. Close it."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0037", "persona": "brother", "goal": "discipline", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["'I'll start Monday' is the most-told lie in human history.", "I've said it. Wednesday's fine too."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0038", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Drink some water, bro. Half your problems are dehydration.", "The other half are your phone."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0039", "persona": "brother", "goal": "retention", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You're not a monk. You're a guy with a plan.", "Monks would be proud though. Probably."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0040", "persona": "brother", "goal": "confidence", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": ["18-24", "25-29"], "time_context": "any", "trigger": "random",
+    "lines": ["Nobody's thinking about the awkward thing you said.", "They're busy with their own awkward thing."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0041", "persona": "brother", "goal": "screen_time", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Your phone just asked me if you're okay.", "It misses being a phone."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0042", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": ["18-24", "25-29"], "time_context": "any", "trigger": "random",
+    "lines": ["Bro, that banking app you keep avoiding? It's fine. Probably.", "Open it. Knowing beats guessing."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0043", "persona": "brother", "goal": "fitness", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Leg day is a myth I refuse to accept.", "Do it anyway. I'll complain with you."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0044", "persona": "brother", "goal": "porn_avoidance", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Your brain: 'just one more.' Also your brain, later: 'why.'", "Skip the sequel."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0045", "persona": "brother", "goal": "discipline", "category": "humor",
+    "tone": "playful", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["A to-do list with twelve items is a wish list.", "Circle three. Do one. Feel weird about how good that feels."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0046", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["I asked around. Nobody's ever regretted going to bed early.", "I asked one guy. It was me."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0047", "persona": "brother", "goal": "retention", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You don't get a trophy for this, man.", "You get sleep and self-respect. Better than a trophy. Cheaper too."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0048", "persona": "brother", "goal": "general", "category": "humor",
+    "tone": "playful", "intensity": 2, "age_bands": ["18-24", "25-29"], "time_context": "any", "trigger": "random",
+    "lines": ["Dating tip from a friend: be a guy with a life first.", "The rest gets a lot easier. Trust me, I learned slow."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "humor", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0049", "persona": "brother", "goal": "general", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Look, a bad afternoon isn't a bad life.", "Zoom out. Then come back and do one small thing."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0050", "persona": "brother", "goal": "retention", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Nobody's gonna hand you a medal for this, and that's the beauty of it.", "It's yours. Private. Real."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0051", "persona": "brother", "goal": "porn_avoidance", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["That stuff sells you a shortcut to a feeling.", "The long way, people, work, sweat, actually gets you there."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0052", "persona": "brother", "goal": "confidence", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["You're not behind, man. You're comparing your inside to their highlight reel.", "Run your race."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0053", "persona": "brother", "goal": "general", "category": "perspective",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Ten years from now, you won't remember most of today.", "You'll remember the kind of guy you were. Be him."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0054", "persona": "brother", "goal": "discipline", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Discipline isn't a mood. Some days it's keeping your word while grumpy.", "Today can be that day."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0055", "persona": "brother", "goal": "discipline", "category": "perspective",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Motivation shows up after you start, not before.", "I've tested this. A lot. Start."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0056", "persona": "brother", "goal": "general", "category": "perspective",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Everyone you admire had a boring Tuesday like this one.", "They did the small thing anyway."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0057", "persona": "brother", "goal": "confidence", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Confidence isn't feeling ready. It's doing it while not ready.", "I've got zero examples of the other way."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0058", "persona": "brother", "goal": "confidence", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": ["30-34", "35-39"], "time_context": "any", "trigger": "random",
+    "lines": ["The guy who's got it all figured out doesn't exist, man.", "The guy who keeps showing up does. Be that one."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0059", "persona": "brother", "goal": "general", "category": "perspective",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Comfort isn't the enemy. Hiding in it is.", "Rest on purpose. Don't drift."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0060", "persona": "brother", "goal": "retention", "category": "perspective",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Look, this isn't about being better than anyone.", "It's about being trusted by yourself. That's rarer."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "philosophical", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0061", "persona": "brother", "goal": "general", "category": "wellbeing",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["When did you last eat something that wasn't from a wrapper?", "Real food. Go."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0062", "persona": "brother", "goal": "screen_time", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Put the phone face down for the next meal.", "Taste your food, man. Wild concept."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0063", "persona": "brother", "goal": "fitness", "category": "wellbeing",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["A walk counts. Around the block counts.", "Go clear your head."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0064", "persona": "brother", "goal": "general", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Sleep's not a reward for finishing. It's the fuel for tomorrow.", "Wrap it up."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0065", "persona": "brother", "goal": "confidence", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Text a friend today. Not for a reason. Just 'hey.'", "Guys forget to do this. Don't be a guy who forgets."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0066", "persona": "brother", "goal": "general", "category": "wellbeing",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Shoulders down. Jaw loose. Breathe out slow.", "There you go."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0067", "persona": "brother", "goal": "fitness", "category": "wellbeing",
+    "tone": "direct", "intensity": 3, "age_bands": ["18-24", "25-29", "30-34"], "time_context": "any", "trigger": "random",
+    "lines": ["Stretch for two minutes, bro. Your back will thank you at forty.", "Mine's still mad at me."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0068", "persona": "brother", "goal": "general", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": ["40-44", "45-49", "50-59", "60+"], "time_context": "any", "trigger": "random",
+    "lines": ["Back acting up again? Get up and move every hour, man.", "Sitting is the slow enemy."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0069", "persona": "brother", "goal": "screen_time", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Last hour before bed, no screens. Try it tonight.", "Read something. Or just lie there. Both fine."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Snooze", "type": "snooze" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0070", "persona": "brother", "goal": "discipline", "category": "wellbeing",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "morning", "trigger": "random",
+    "lines": ["Make the bed. Small win. Sets the tone.", "Cheap trick. Works."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0071", "persona": "brother", "goal": "retention", "category": "wellbeing",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Pressure builds when you're bored and alone.", "Call someone, cook something, get outside. Change the room."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0072", "persona": "brother", "goal": "confidence", "category": "wellbeing",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Say one thing out loud you did right today.", "Yeah, out loud. Nobody's listening. I am."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0073", "persona": "brother", "goal": "porn_avoidance", "category": "health",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["An urge is a wave, man. It climbs, it peaks, it passes in minutes.", "You just have to be standing when it's done."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "health", "source": "urge_transient",
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0074", "persona": "brother", "goal": "retention", "category": "health",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "evening", "trigger": "random",
+    "lines": ["Bad sleep wrecks your self-control. That's not a character flaw, that's biology.", "Protect the sleep, protect the streak."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "health", "source": "sleep_impulse_control",
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0075", "persona": "brother", "goal": "retention", "category": "health",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["A walk or a workout lifts your mood and your self-control. Both.", "So when it gets loud, move your body."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "point", "haptic": "tap", "evidence_type": "health", "source": "exercise_mood_impulse",
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0076", "persona": "brother", "goal": "retention", "category": "health",
+    "tone": "playful", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Real talk: your body makes new stuff continuously. Nothing's 'stored up forever.'", "So drop the superpowers myth. Do this for you."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "health", "source": "spermatogenesis_continuous",
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0077", "persona": "brother", "goal": "retention", "category": "health",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Heard retention pumps your testosterone long-term? No solid evidence for that, bro.", "Do it for your own reasons. Those hold up."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }, { "label": "Save", "type": "save" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "health", "source": "testosterone_retention_no_strong_evidence",
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0078", "persona": "brother", "goal": "general", "category": "health",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["More days isn't automatically better for every measure, man.", "Chasing a big number for its own sake isn't the point. Your life is."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "health", "source": "abstinence_motility_dna_tradeoff",
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0079", "persona": "brother", "goal": "general", "category": "random",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["No reason for this one. Just saying hey.", "Hey."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "none", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0080", "persona": "brother", "goal": "general", "category": "random",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Random thought: you've survived every hard day so far.", "Decent track record."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "none", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0081", "persona": "brother", "goal": "screen_time", "category": "random",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Look out a window for ten seconds. A real one, not the phone.", "Cool. Carry on."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "none", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0082", "persona": "brother", "goal": "fitness", "category": "random",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "random",
+    "lines": ["Do five push-ups right now. No reason.", "Okay, one reason: I said so."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "none", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0083", "persona": "brother", "goal": "porn_avoidance", "category": "urge_management",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["Okay. Urge hit. I'm here.", "Stand up. Cold water on your face. Ninety seconds. Go."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0084", "persona": "brother", "goal": "retention", "category": "urge_management",
+    "tone": "warm", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["It feels like it'll last forever. It won't. It never has.", "Ride it out with me. Breathe slow."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0085", "persona": "brother", "goal": "fitness", "category": "urge_management",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["Phone goes in another room. Right now. Not after.", "Then push-ups till your arms complain. Then walk."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0086", "persona": "brother", "goal": "retention", "category": "urge_management",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["I've been exactly here, man. Heart racing, brain bargaining.", "Don't argue with it. Just move your feet."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0087", "persona": "brother", "goal": "porn_avoidance", "category": "urge_management",
+    "tone": "warm", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["You don't have to win the whole night. Just the next ten minutes.", "Then the next ten. I'm counting with you."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0088", "persona": "brother", "goal": "general", "category": "urge_management",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["Whatever this is, you don't decide anything right now.", "Water. Walk. Then we talk."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0089", "persona": "brother", "goal": "retention", "category": "urge_management",
+    "tone": "direct", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["Name what you're actually feeling. Bored? Lonely? Tired?", "Fix that thing instead. The urge is a decoy."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0090", "persona": "brother", "goal": "porn_avoidance", "category": "urge_management",
+    "tone": "warm", "intensity": 4, "age_bands": [], "time_context": "any", "trigger": "urge",
+    "lines": ["It's a wave, bro. You're already halfway up it.", "Hang on. The other side is closer than it looks."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0091", "persona": "brother", "goal": "porn_avoidance", "category": "late_night",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "late_night", "trigger": "high_risk_window",
+    "lines": ["It's late, man. Nothing good gets decided at this hour.", "Charge the phone across the room. Bed."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "look", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0092", "persona": "brother", "goal": "retention", "category": "late_night",
+    "tone": "direct", "intensity": 3, "age_bands": [], "time_context": "late_night", "trigger": "high_risk_window",
+    "lines": ["Late night, glowing screen, quiet house. Classic setup.", "You see it. So break it. Lights off."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "point", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0093", "persona": "brother", "goal": "screen_time", "category": "late_night",
+    "tone": "warm", "intensity": 3, "age_bands": [], "time_context": "late_night", "trigger": "high_risk_window",
+    "lines": ["One more scroll turns into forty. You know this.", "Put it down. Tomorrow-you will high five you."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "nod", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0094", "persona": "brother", "goal": "porn_avoidance", "category": "late_night",
+    "tone": "warm", "intensity": 4, "age_bands": [], "time_context": "late_night", "trigger": "high_risk_window",
+    "lines": ["I've sat up at this hour too. It's not a great place to think.", "Water, bathroom, bed. Boring wins tonight."],
+    "actions": [{ "label": "I'm good", "type": "dismiss" }, { "label": "I need help", "type": "urge_mode" }],
+    "animation": "encourage", "haptic": "double_tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0095", "persona": "brother", "goal": "retention", "category": "reset_recovery",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "reset",
+    "lines": ["Chapter's done. Next one starts now.", "I'm still here."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0096", "persona": "brother", "goal": "porn_avoidance", "category": "reset_recovery",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "reset",
+    "lines": ["Look, I'm not going anywhere. A reset is a page, not the book.", "Eat something, sleep, then we start again."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "look", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0097", "persona": "brother", "goal": "general", "category": "reset_recovery",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "reset",
+    "lines": ["You told me the truth. That's the hard part and you did it.", "Chapter's done. Next one starts now. I'm still here."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "encourage", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0098", "persona": "brother", "goal": "retention", "category": "reset_recovery",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "reset",
+    "lines": ["One thing I know: you wouldn't feel this if you didn't care.", "Chapter's done. Next one starts now. I'm still here."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": true
+  },
+  {
+    "id": "brother_0099", "persona": "brother", "goal": "general", "category": "welcome_back",
+    "tone": "warm", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "welcome_back",
+    "lines": ["Hey, there he is. Been a minute.", "No lecture. Glad you're back. Let's go."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "nod", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  },
+  {
+    "id": "brother_0100", "persona": "brother", "goal": "discipline", "category": "welcome_back",
+    "tone": "playful", "intensity": 2, "age_bands": [], "time_context": "any", "trigger": "welcome_back",
+    "lines": ["Look who's back. I kept your seat warm.", "Pick up where you left off. Nothing else needed."],
+    "actions": [{ "label": "Got it", "type": "dismiss" }],
+    "animation": "laugh", "haptic": "tap", "evidence_type": "behavioral", "source": null,
+    "safety_level": "safe", "premium": false
+  }
+]

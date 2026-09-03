@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alter Ego</string>
+    <string name="notification_channel_moments">Moments</string>
+    <string name="notification_channel_moments_desc">Short check-ins from your Alter Ego</string>
+    <string name="notification_channel_scheduled">Scheduled reminders</string>
+    <string name="notification_channel_scheduled_desc">Reminders you asked for at exact times</string>
+    <string name="notification_channel_urge">Urge support</string>
+    <string name="notification_channel_urge_desc">Timer and follow-ups during Urge Mode</string>
+    <string name="notification_private_title">%1$s wants a word.</string>
+    <string name="notification_normal_title">Your check-in is ready.</string>
+    <string name="notification_explicit_title">Day %1$d check-in</string>
+    <string name="notification_action_good">I\'m good</string>
+    <string name="notification_action_help">I need help</string>
+    <string name="notification_action_snooze">Later</string>
+    <string name="urge_timer_title">Ten minutes</string>
+    <string name="urge_timer_body">Don\'t decide anything yet.</string>
+    <string name="tab_today">Today</string>
+    <string name="tab_journey">Journey</string>
+    <string name="tab_me">Me</string>
+</resources>

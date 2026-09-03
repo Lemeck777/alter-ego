@@ -1,0 +1,23 @@
+# Build outputs
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/.idea/
+android/captures/
+*.iml
+
+# Server
+server/node_modules/
+server/.env
+server/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keys and signing material. Never commit these.
+*.jks
+*.keystore
+*.p12
+service-account*.json

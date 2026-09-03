@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="alterego.db" />
+        <exclude domain="database" path="alterego.db-wal" />
+        <exclude domain="database" path="alterego.db-shm" />
+        <exclude domain="sharedpref" path="alterego_secure.xml" />
+        <exclude domain="file" path="datastore/user_prefs.preferences_pb" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="database" path="alterego.db" />
+        <exclude domain="sharedpref" path="alterego_secure.xml" />
+        <exclude domain="file" path="datastore/user_prefs.preferences_pb" />
+    </device-transfer>
+</data-extraction-rules>

@@ -1,0 +1,54 @@
+# DigitalOcean App Platform spec.
+# Deploy with: doctl apps create --spec app.yaml
+name: alterego
+region: sgp
+services:
+  - name: api
+    dockerfile_path: server/Dockerfile
+    source_dir: server
+    github:
+      branch: main
+      deploy_on_push: true
+    http_port: 8080
+    instance_count: 1
+    instance_size_slug: basic-xxs
+    health_check:
+      http_path: /health
+      initial_delay_seconds: 10
+      period_seconds: 30
+    envs:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        scope: RUN_TIME
+        value: ${alterego-db.DATABASE_URL}
+      - key: DATABASE_SSL
+        value: "true"
+      - key: ADMIN_API_KEY
+        scope: RUN_TIME
+        type: SECRET
+      - key: GOOGLE_SERVICE_ACCOUNT_B64
+        scope: RUN_TIME
+        type: SECRET
+      - key: ANDROID_PACKAGE_NAME
+        value: com.alterego.app
+    routes:
+      - path: /
+jobs:
+  - name: migrate
+    kind: PRE_DEPLOY
+    dockerfile_path: server/Dockerfile
+    source_dir: server
+    run_command: node src/db/migrate.js && node src/db/seed.js
+    instance_size_slug: basic-xxs
+    envs:
+      - key: DATABASE_URL
+        scope: RUN_TIME
+        value: ${alterego-db.DATABASE_URL}
+      - key: DATABASE_SSL
+        value: "true"
+databases:
+  - name: alterego-db
+    engine: PG
+    version: "16"
+    production: false
