@@ -1,0 +1,21 @@
+# Normalise line endings so the repository is identical on every machine.
+* text=auto eol=lf
+
+# The Gradle wrapper script must stay LF or it will not run on macOS or Linux.
+gradlew text eol=lf
+*.sh text eol=lf
+
+# Windows-only scripts keep CRLF.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binaries must never be touched.
+*.jar binary
+*.apk binary
+*.aab binary
+*.png binary
+*.jpg binary
+*.webp binary
+*.riv binary
+*.keystore binary
+*.jks binary
