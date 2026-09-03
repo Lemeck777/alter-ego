@@ -6,6 +6,14 @@ The user lives their life. Alter Ego waits in the background, then appears for f
 seconds at a moment that matters, says one to three short lines in the voice of a companion the user
 chose, and gets out of the way.
 
+## See it
+
+- **[Interactive screen tour](https://claude.ai/code/artifact/e7d32f53-e017-4916-9b01-bb2646656d58)** —
+  tap through eight real screens in the browser and switch companion to watch the whole app change
+  voice and colour. Nothing to install. Every line of dialogue is pulled from the shipped library.
+- **[Install the app](https://github.com/Lemeck777/alter-ego/releases/tag/v1.0.0-test)** — the APK,
+  for Android 8.0 or newer. A test build signed with a development key, not a Play Store release.
+
 ## What it is
 
 Two engines, one relationship.
